@@ -1,4 +1,4 @@
-<!-- Ajoutez ceci dans <head> -->
+merci pour votre réponse<!-- 
 <script>
 let panier = 0;
 
